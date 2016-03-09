@@ -52,9 +52,9 @@ end
 
 return {
   description = "Shows bot version", 
-  usage = "ver: Shows bot version",
+  usage = "HG: Shows bot version",
   patterns = {
-    "^ver$"
+    "^HG$"
   }, 
   run = run 
 }
